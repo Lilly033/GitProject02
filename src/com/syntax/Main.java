@@ -8,5 +8,7 @@ public class Main {
         System.out.println("Something 1");
         System.out.println("Something 2");
         System.out.println("Something 3");
+        System.out.println("Something 4");
+        System.out.println("Something 5");
     }
 }
