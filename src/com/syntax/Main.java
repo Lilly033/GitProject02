@@ -12,5 +12,6 @@ public class Main {
         System.out.println("Something 5");
 
         System.out.println("Something 6...6 corect code");
+        System.out.println("Something 7");
     }
 }
